@@ -55,23 +55,34 @@ The original Superstore dataset contained inconsistencies and required shaping b
 - **Dynamic Filters:** Region, Segment, Category, Sub-Category.
 - **Time Series Charts:** Monthly trends in sales and profit.
 - **Top N Visuals:** Most profitable sub-categories and highest-selling items.
-- **Heatmaps:** Region-wise performance comparison.
+
+  <img width="1992" height="1105" alt="image" src="https://github.com/user-attachments/assets/45361b08-44a1-4abe-8822-8a8c637be233" />
+
 
 ---
 
 ## 📂 Files Included
 
-- `Superstore_Dataset.xlsx` – Cleaned dataset with Power Query transformation steps.
-- `Superstore Sales Dashboard.pbix` – Power BI file with interactive visualizations.
+- `Superstore.xlsx` – Cleaned dataset with Power Query transformation steps.
+- `Superstore Dashboard.pbix` – Power BI file with interactive visualizations.
 
 ---
 
 ## 🧠 Key Insights
 
 - **Western Region** showed consistently high sales but lower profit margins.
+
+  <img width="2848" height="1209" alt="image" src="https://github.com/user-attachments/assets/ab83fcab-f014-4fe0-a3a9-313ead45d37f" />
+
 - **Technology Segment** was the most profitable across all regions.
 - **Tables and Bookcases** performed poorly despite high order volumes.
+
+  <img width="2876" height="1219" alt="image" src="https://github.com/user-attachments/assets/a72eac3d-7cf2-449e-9a18-56e1bd466dea" />
+
 - Clear monthly seasonality in order trends, especially Q4 spikes.
+
+  <img width="2856" height="1170" alt="image" src="https://github.com/user-attachments/assets/2d053c7f-73a2-4cf9-8a83-0aaf948a8867" />
+
 
 ---
 
